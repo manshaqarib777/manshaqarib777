@@ -82,6 +82,6 @@ With 8+ years in full-stack web development, I specialize in building robust, pr
 <img src="https://github-readme-stats.vercel.app/api?username=manshaqarib777&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manshaqarib777&layout=compact&hide_border=true" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manshaqarib777&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manshaqarib777&hide_border=true" width="100%" height="170" />
 
 </div>
