@@ -1,15 +1,18 @@
 <div align="center">
 
-# Mansha Qarib
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Laravel+%7C+Vue+%7C+React+Expert;8%2B+Years+of+Experience)](https://git.io/typing-svg)
 
-**Senior Full-Stack Engineer | 8+ Years of Experience**
+# Mansha Qarib
 
 Architecting scalable web applications with Laravel, Vue.js, React & modern cloud infrastructure.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manshaqarib.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansha-qarib-650982147)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8702864)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansha.qarib777@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/manshaqarib2)
+
+![Profile Views](https://komarev.com/ghpvc/?username=manshaqarib777&style=flat-square&color=2F81F7)
 
 </div>
 
@@ -62,15 +65,30 @@ With 8+ years in full-stack web development, I specialize in building robust, pr
 
 ---
 
+### Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=manshaqarib777&theme=flat&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=manshaqarib777&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manshaqarib777&layout=compact&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manshaqarib777&hide_border=true" width="700" />
-
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manshaqarib777&" alt="manshaqarib777" /></p>
+---
+
+### Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manshaqarib777&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
