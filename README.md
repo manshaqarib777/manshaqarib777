@@ -63,15 +63,6 @@ With 8+ years in full-stack web development, I specialize in building robust, pr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=manshaqarib777&theme=flat&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
