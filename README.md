@@ -1,75 +1,92 @@
-<div align="center">
+# Hi, I'm Mansha Qarib
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Laravel+%7C+Vue+%7C+React+Expert;8%2B+Years+of+Experience)](https://git.io/typing-svg)
+**Full-Stack Engineer building production web applications, AI agents, and business automation systems.**
 
-# Mansha Qarib
+I work across the complete product lifecycle — from frontend experiences and backend architecture to APIs, cloud deployment, CI/CD, and AI-powered workflows.
 
-Architecting scalable web applications with Laravel, Vue.js, React & modern cloud infrastructure.
+Currently based in **Riyadh, Saudi Arabia** and open to full-time, contract, and product collaboration opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manshaqarib.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manshaqarib)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8702864)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansha.qarib777@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/manshaqarib2)
+## What I Build
 
-![Profile Views](https://komarev.com/ghpvc/?username=manshaqarib777&style=flat-square&color=2F81F7)
+**AI & Automation**
 
-</div>
+* AI agents and business workflow automation
+* WhatsApp AI assistants and receptionists
+* LLM-powered applications
+* n8n integrations and automated workflows
+* RAG, tool calling, and API-based AI systems
 
----
+**Full-Stack Applications**
 
-### About Me
+* SaaS platforms
+* E-commerce systems
+* Admin dashboards
+* Real-time applications
+* REST APIs and backend services
 
-With 8+ years in full-stack web development, I specialize in building robust, production-grade applications from architecture to deployment. My core expertise lies in the **Laravel + Vue/React** ecosystem, complemented by strong DevOps and cloud infrastructure skills.
+**Cloud & DevOps**
 
-- Building and leading development of large-scale e-commerce and SaaS platforms
-- Designing RESTful APIs, microservices, and real-time systems
-- Implementing CI/CD pipelines, containerization, and cloud deployments
+* Dockerized applications
+* AWS & serverless workloads
+* CI/CD with GitHub Actions
+* VPS and cloud deployments
+* Redis caching and production optimization
 
----
-
-### Tech Stack
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Tech Stack
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Redux` `React Query` `Three.js`
 
-**Database & Cache**
+**Backend**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+`Laravel` `PHP` `Node.js` `Express` `REST APIs` `WebSockets`
 
-**DevOps & Cloud**
+**Data**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Prisma`
 
+**AI & Automation**
 
----
+`LLMs` `AI Agents` `RAG` `n8n` `MCP` `OpenAI APIs`
 
-### GitHub Stats
+**Cloud & DevOps**
 
-<div align="center">
+`AWS` `Docker` `GitHub Actions` `Vercel` `DigitalOcean` `Linux` `Nginx`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manshaqarib777&hide_border=true" width="100%" height="170" />
+## Selected Work
 
-</div>
+### AI Interview Roadmap
+
+AI-assisted platform designed to help developers prepare for technical interviews through structured learning roadmaps.
+
+**Stack:** Next.js · React · AI · TypeScript
+
+### WhatsApp AI Receptionist
+
+AI agent designed to handle customer conversations, answer questions, qualify leads, and automate common business interactions.
+
+**Stack:** AI Agents · WhatsApp · APIs · Automation
+
+### Production SaaS & Business Platforms
+
+I've worked on production SaaS, e-commerce, dashboards, subscription systems, payment integrations, real-time applications, and complex Laravel/Next.js platforms for international clients.
+
+## What I'm Exploring
+
+I'm particularly interested in:
+
+* Agentic AI systems
+* MCP and tool-connected agents
+* Local LLMs
+* AI-powered business automation
+* Voice AI
+* Retrieval-Augmented Generation
+* Production AI architecture
+
+## Let's Connect
+
+**Portfolio:** manshaqarib.com
+**GitHub:** github.com/manshaqarib777
+
+I'm open to opportunities where I can work on **Full-Stack, AI, SaaS, automation, or cloud products**.
