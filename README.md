@@ -1,92 +1,217 @@
-# Hi, I'm Mansha Qarib
+<div align="center">
 
-**Full-Stack Engineer building production web applications, AI agents, and business automation systems.**
+# MANSHA QARIB
 
-I work across the complete product lifecycle — from frontend experiences and backend architecture to APIs, cloud deployment, CI/CD, and AI-powered workflows.
+### Full-Stack Engineer · AI Agents · Automation
 
-Currently based in **Riyadh, Saudi Arabia** and open to full-time, contract, and product collaboration opportunities.
+Building production software where **web engineering meets applied AI**.
 
-## What I Build
+`Next.js` · `React` · `Laravel` · `Node.js` · `AI Agents` · `AWS`
 
-**AI & Automation**
+**Riyadh, Saudi Arabia**
 
-* AI agents and business workflow automation
-* WhatsApp AI assistants and receptionists
-* LLM-powered applications
-* n8n integrations and automated workflows
-* RAG, tool calling, and API-based AI systems
+[Portfolio](https://manshaqarib.com) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
 
-**Full-Stack Applications**
+</div>
 
-* SaaS platforms
-* E-commerce systems
-* Admin dashboards
-* Real-time applications
-* REST APIs and backend services
+<br>
 
-**Cloud & DevOps**
+---
 
-* Dockerized applications
-* AWS & serverless workloads
-* CI/CD with GitHub Actions
-* VPS and cloud deployments
-* Redis caching and production optimization
+## 01 / ABOUT
 
-## Tech Stack
+I'm a Full-Stack Engineer focused on building **production web applications, AI agents, and automated business systems**.
 
-**Frontend**
+My work spans the complete product lifecycle — architecture, frontend, backend, APIs, databases, cloud infrastructure, CI/CD, and AI integrations.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Redux` `React Query` `Three.js`
+```text
+Currently exploring → Agentic AI · MCP · Local LLMs · Voice AI · RAG
+Currently building  → AI Agents · SaaS Products · Business Automation
+Based in            → Riyadh, Saudi Arabia
+```
 
-**Backend**
+---
 
-`Laravel` `PHP` `Node.js` `Express` `REST APIs` `WebSockets`
-
-**Data**
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `Prisma`
-
-**AI & Automation**
-
-`LLMs` `AI Agents` `RAG` `n8n` `MCP` `OpenAI APIs`
-
-**Cloud & DevOps**
-
-`AWS` `Docker` `GitHub Actions` `Vercel` `DigitalOcean` `Linux` `Nginx`
-
-## Selected Work
+## 02 / SELECTED WORK
 
 ### AI Interview Roadmap
 
-AI-assisted platform designed to help developers prepare for technical interviews through structured learning roadmaps.
+**Structured technical interview preparation powered by AI.**
 
-**Stack:** Next.js · React · AI · TypeScript
+Personalized learning paths, topic progression and developer-focused interview preparation.
+
+`Next.js` `TypeScript` `React` `AI`
+
+**[View Live Project →](https://interview-roadmap-v1.vercel.app/)**
+
+---
 
 ### WhatsApp AI Receptionist
 
-AI agent designed to handle customer conversations, answer questions, qualify leads, and automate common business interactions.
+**An AI employee for customer-facing WhatsApp conversations.**
 
-**Stack:** AI Agents · WhatsApp · APIs · Automation
+Handles incoming conversations, understands customer intent, retrieves business knowledge and connects AI with real business workflows.
 
-### Production SaaS & Business Platforms
+`AI Agents` `WhatsApp` `LLMs` `RAG` `Automation`
 
-I've worked on production SaaS, e-commerce, dashboards, subscription systems, payment integrations, real-time applications, and complex Laravel/Next.js platforms for international clients.
+```text
+Customer
+   ↓
+WhatsApp
+   ↓
+Webhook / API
+   ↓
+AI Agent
+   ├── Knowledge / RAG
+   ├── Business Tools
+   ├── CRM / Database
+   └── External APIs
+   ↓
+Intelligent Response
+```
 
-## What I'm Exploring
+---
 
-I'm particularly interested in:
+### Production Platforms
 
-* Agentic AI systems
-* MCP and tool-connected agents
-* Local LLMs
-* AI-powered business automation
-* Voice AI
-* Retrieval-Augmented Generation
-* Production AI architecture
+Beyond demos, I work on real production systems used by businesses and their customers.
 
-## Let's Connect
+My experience includes:
 
-**Portfolio:** manshaqarib.com
-**GitHub:** github.com/manshaqarib777
+**SaaS** · **E-commerce** · **Subscriptions** · **Payments** · **Admin Systems**
+**Real-time Apps** · **REST APIs** · **Multi-role Platforms** · **Cloud Deployments**
 
-I'm open to opportunities where I can work on **Full-Stack, AI, SaaS, automation, or cloud products**.
+---
+
+## 03 / ENGINEERING STACK
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**FRONTEND**
+
+Next.js
+React
+TypeScript
+Tailwind CSS
+Redux
+React Query
+Three.js
+
+</td>
+<td width="25%" valign="top">
+
+**BACKEND**
+
+Laravel
+PHP
+Node.js
+Express
+REST APIs
+WebSockets
+Redis
+
+</td>
+<td width="25%" valign="top">
+
+**DATA**
+
+PostgreSQL
+MySQL
+MongoDB
+Prisma
+Redis
+Elasticsearch
+
+</td>
+<td width="25%" valign="top">
+
+**INFRASTRUCTURE**
+
+AWS
+Docker
+GitHub Actions
+Vercel
+DigitalOcean
+Linux
+Nginx
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / AI ENGINEERING
+
+I don't approach AI as a chatbot added on top of an application.
+
+I focus on connecting models with **tools, data and real business processes**.
+
+```text
+LLMs
+ │
+ ├── AI Agents
+ ├── Tool Calling
+ ├── MCP
+ ├── RAG
+ ├── Voice AI
+ ├── Workflow Automation
+ └── Business Integrations
+```
+
+Currently experimenting with **local LLM infrastructure, agentic coding systems and real-time AI applications.**
+
+---
+
+## 05 / HOW I BUILD
+
+**01 — Understand**
+
+Start with the business problem rather than the framework.
+
+**02 — Architect**
+
+Design the application, data model, integrations and infrastructure.
+
+**03 — Build**
+
+Ship maintainable production code with clear boundaries between systems.
+
+**04 — Automate**
+
+Identify repetitive operations that software or AI can remove.
+
+**05 — Ship**
+
+CI/CD → monitoring → optimization → iteration.
+
+---
+
+## 06 / CURRENT FOCUS
+
+```text
+AI Agents                 ████████████████████
+Full-Stack Engineering    ████████████████████
+Business Automation       ██████████████████░░
+Cloud / DevOps            ████████████████░░░░
+Local LLMs                ██████████████░░░░░░
+```
+
+---
+
+## 07 / LET'S BUILD
+
+I'm interested in working with teams building:
+
+**AI Products · SaaS · Developer Tools · Automation · FinTech · E-commerce**
+
+If you're building something technically challenging, I'd be happy to talk.
+
+**[Portfolio →](https://manshaqarib.com)**
+**[LinkedIn →](YOUR_LINKEDIN_URL)**
+
+<sub>Full-Stack Engineering × Applied AI</sub>
+
+</div>
